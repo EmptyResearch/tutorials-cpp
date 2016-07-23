@@ -1,2 +1,0 @@
-# tutorials-cpp
-My Site
